@@ -85,6 +85,7 @@ The Contractor shall provide the following services:
 - Work with DOL's Office of Chief Information Officer in order for the System to receive Authority to Operate.
 - Must interface with PostgreSQL and allow create, retrieve, update, and delete as appropriate for the user's permissions. Must allow for migration to DB2.
 - Provide an import function for existing data in CSV or similar format.
+- Provide a startup script for bootstrapping the system in a fresh environment.
 
 
 ### Additional requirements:
